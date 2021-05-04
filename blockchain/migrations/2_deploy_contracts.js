@@ -1,4 +1,4 @@
-var Market = artifacts.require("./Market.sol");
+var Market = artifacts.require("../contracts/Market.sol");
 
 module.exports = function(deployer) {
   deployer.deploy(Market);

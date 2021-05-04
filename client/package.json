@@ -1,8 +1,7 @@
 {
-  "name": "dcart",
+  "name": "scarletcoin",
   "version": "0.1.1",
   "private": true,
-  "homepage": "http://dev-bootcamp-2019.github.io/final-project-aashutoshrathi",
   "dependencies": {
     "antd": "^4.15.4",
     "gh-pages": "^3.1.0",

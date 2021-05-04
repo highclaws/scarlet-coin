@@ -1,4 +1,4 @@
-const MarketPlace = artifacts.require("./Market.sol");
+const MarketPlace = artifacts.require("../contracts/Market.sol");
 
 contract("Market", accounts => {
   const owner = accounts[0];

@@ -1,0 +1,25 @@
+{
+  "name": "scarlet-coin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test",
+    "truffle-compile":"truffle compile",
+    "truffle-migrate":"truffle migrate"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-pagination-nav": "^1.0.7",
+    "truffle": "^5.3.4",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}

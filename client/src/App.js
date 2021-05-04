@@ -72,7 +72,7 @@ class App extends Component {
             <Menu.Item key="0">
               <div>
                 <a href="/">
-                  <img src={Logo} alt="D-Cart" className="logo" />
+                  <img src={Logo} alt="Scarlet-Market" className="logo" />
                 </a>
               </div>
             </Menu.Item>
@@ -176,7 +176,7 @@ class App extends Component {
             />
           </Switch>
         </Router>
-        <Footer style={{ textAlign: "center" }}>© DCart 2019</Footer>
+        <Footer style={{ textAlign: "center" }}>© Scarlet Market 2020</Footer>
       </Layout>
     );
   }

@@ -166,6 +166,3 @@ Icon Credits: Icons made by <a href="https://www.freepik.com/" title="Freepik">F
 
 <p> Moksha Kudos taken from <a href="https://gitcoin.co/kudos/">Gitcoin Kudos</a></p>
 
----
-
-<p align="center"> Made with ❤️ by <a href="https://github.com/aashutoshrathi">Aashutosh Rathi</a></p>
